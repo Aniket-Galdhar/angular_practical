@@ -1,0 +1,18 @@
+.card{
+    border:none;
+    width: 500px;
+    padding: 40px;
+    display: block;
+    margin: auto;
+    left: 50%;
+    top: 50%;
+    background: linear-gradient(to right,#134e5e,#71b280);
+}
+
+.card h1,h6,label{
+    color: white;
+}
+
+.form-group{
+    padding-bottom: 10px;
+}
